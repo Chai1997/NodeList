@@ -1,0 +1,7 @@
+﻿  NodeList.c
+D:\code\NodeList\NodeList\NodeList.c(8,12): warning C4047: “return”:“pNode”与“int”的间接级别不同
+D:\code\NodeList\NodeList\NodeList.c(86,12): warning C4098: “Insert”:“void”函数返回值
+D:\code\NodeList\NodeList\NodeList.c(91,12): warning C4098: “Insert”:“void”函数返回值
+D:\code\NodeList\NodeList\NodeList.c(109,12): warning C4098: “Delete”:“void”函数返回值
+D:\code\NodeList\NodeList\NodeList.c(114,12): warning C4098: “Delete”:“void”函数返回值
+  NodeList.vcxproj -> D:\code\NodeList\Debug\NodeList.exe
